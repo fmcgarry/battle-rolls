@@ -1,4 +1,4 @@
-# Battle-rolls
+# Battle-Rolls
 
 One of the first programs I ever wrote. A .NET Framework 4.8 Windows Forms Application that automatically rolls all attack damage my character could deal in a DnD campaign.
 Not the most robust or cleanly coded application, but, it worked for what I needed at the time.
